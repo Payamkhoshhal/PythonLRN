@@ -1,1 +1,1 @@
-# HackerRank-PythonQuestions
+# H-PythonQuestions
